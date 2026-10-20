@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+.vs/
+
+# Build
+build/
+out/
+target/
+bin/
+obj/
+dist/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.wily/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sonar
+.scannerwork/
